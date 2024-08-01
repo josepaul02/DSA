@@ -7,7 +7,7 @@ Consider the number of unique elements of nums to be k, to get accepted, you nee
 Change the array nums such that the first k elements of nums contain the unique elements in the order they were present in nums initially. The remaining elements of nums are not important as well as the size of nums.
 Return k.
 Approach:
-2 pointer approach - one to track unique elemnts and the other traverses the array. 
+2 pointer approach - one to track unique elements and the other traverses the array. 
 */
 #include<vector>
 #include<algorithm>
